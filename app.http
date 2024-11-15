@@ -31,7 +31,7 @@ GET http://localhost:3000/districts/322/
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzMxNjYzOTMzfQ.wzoDbaTN67aBjSPkmnUIJpVQgZq4dJ_OCKHOr4CHOOk 
 ### 
 
-DELETE http://localhost:3000/districts/
+DELETE http://localhost:3000/districts/320/
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzMxNjYzOTMzfQ.wzoDbaTN67aBjSPkmnUIJpVQgZq4dJ_OCKHOr4CHOOk 
 ### 
 
